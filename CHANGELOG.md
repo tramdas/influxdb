@@ -13,6 +13,7 @@
 - [#2040](https://github.com/influxdb/influxdb/pull/2040): Add missing top-level help for config command.
 - [#2057](https://github.com/influxdb/influxdb/pull/2057): Move racy "in order" test to integration test suite.
 - [#2060](https://github.com/influxdb/influxdb/pull/2060): Reload server shard map on restart.
+- [#2067](https://github.com/influxdb/influxdb/pull/2067): Fixing intervals for group by.
 
 ## v0.9.0-rc15 [2015-03-19]
 
