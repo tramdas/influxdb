@@ -5,6 +5,7 @@
 - [#2059](https://github.com/influxdb/influxdb/pull/2059): Retention policies sorted by name on return to client.
 - [#2061](https://github.com/influxdb/influxdb/pull/2061): Implement SHOW DIAGNOSTICS.
 - [#2064](https://github.com/influxdb/influxdb/pull/2064): Allow init.d script to return influxd version.
+- [#1631](https://github.com/influxdb/influxdb/pull/1631): Wire up DROP CONTINUOUS QUERY.
 
 ### Bugfixes
 - [#2037](https://github.com/influxdb/influxdb/pull/2037): Don't check 'configExists' at Run() level.
